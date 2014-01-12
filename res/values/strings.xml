@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TopGolf</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="loading">Loading...</string>
+    <string name="sending">Sending...</string>
+    <string name="enable_gps">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="information">Information</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    <string name="no_network_available">No network available</string>
+    <string name="error">Error</string>
+    <string name="internal_server_error">Internal server error</string>
+    <string name="exception_text">Exception occurred while communicating with the server</string>
+    <string name="nav_not_found">No screen is configured for the given key \'%1$s\'.</string>
+    <string name="duplicate_nav_key">The key \'%1$s\' already exists.</string>
+
+</resources>

@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" xmlns:app="http://schemas.android.com/apk/res/com.example.webviewcache">
+
+ <!--    <GridLayout
+        android:id="@+id/gridlayout"
+        android:layout_width="fill_parent"
+        android:background="#000000"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal"
+        android:useDefaultMargins="true"
+        
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" >
+    </GridLayout> -->
+
+    <WebView
+        android:id="@+id/webView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" />
+
+</RelativeLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="glossy_white">#f6f8f9</color>
+    <color name="white_smoke">#F5F5F5</color>
+<!--     <color name="glossy_white">#FFf6f8f9</color> -->
+    <color name="antique_white">#FAEBD7</color>
+    <color name="black">#000000</color>
+   <!--  <color name="blue_app">#53D1DA</color> -->
+     <color name="list_divider">#dad8d8</color>
+     <color name="grey">#808080</color>
+     <color name="location_address_grey">#626262</color>
+     <color name="add_credit_divider">#efefef</color>
+     <color name="add_credit_divider_views">#70efefef</color>
+     <color name="home_grey">#c5c5c5</color>
+     <color name="menu_txt_selected">#979898</color>
+     <color name="hint_color">#a8a8a8</color>
+     <color name="dark_blue">#126774</color>
+     <color name="home_name_color">#2e8fbc</color>
+     <color name="top_name_color">#48b6e2</color>
+     <color name="leaderboard_row_text">#126774</color>
+     <color name="app_font_blue">#126774</color>
+     <color name="graph_drop_down_font_blue">#2e8fbc</color>
+     <color name="my_score_points_color">#126774</color>
+     <color name="my_score_x_axis_points_color">#6dbaba</color>
+     <color name="my_score_popup">#126774</color>
+</resources>
